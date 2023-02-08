@@ -1,0 +1,1 @@
+<view><uni-forms vue-id="2660d704-1" bind:__l="__l" vue-slots="{{['default']}}"><uni-forms-item vue-id="{{('2660d704-2')+','+('2660d704-1')}}" label="图片" bind:__l="__l" vue-slots="{{['default']}}"><input class="uni-input" focus="{{true}}" placeholder="自动获得焦点"/></uni-forms-item></uni-forms></view>
